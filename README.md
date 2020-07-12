@@ -19,4 +19,4 @@ I'm a software developer, Pythonista.
 - [Twitter](https://twitter.com/515hikaru_en)
 - [Dev.to](https://dev.to/515hikaru)
 - [Tech Blog(Japanese)](https://tech.515hikaru.net/) 
-- [Diary(Japanese)](https://blog.hatena.ne.jp/)
+- [Diary(Japanese)](https://blog.515hikaru.net/)
