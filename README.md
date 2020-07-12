@@ -2,10 +2,10 @@
 
 I'm a software developer, Pythonista.
 
-## Current My Project
+## My Projects
 
 - [pnovel](https://github.com/515hikaru/pnovel)
-    - This tool makes me write easily
+    - This tool makes me write novels easily
 - [hutago](https://github.com/515hikaru/hutago)
     - Blog article's tags may be managed easily.
 - [tech-memo](https://github.com/515hikaru/tech-memo)
