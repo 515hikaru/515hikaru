@@ -20,3 +20,9 @@ I'm a software developer, Pythonista.
 - [Dev.to](https://dev.to/515hikaru)
 - [Tech Blog(Japanese)](https://tech.515hikaru.net/) 
 - [Diary(Japanese)](https://blog.515hikaru.net/)
+
+# My Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=515hikaru&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![515hikaru's github stats](https://github-readme-stats.vercel.app/api?username=515hikaru&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
