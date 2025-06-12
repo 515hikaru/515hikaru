@@ -21,7 +21,7 @@ I'm a software developer, Pythonista.
 - [Tech Blog(Japanese)](https://tech.515hikaru.net/) 
 - [Diary(Japanese)](https://blog.515hikaru.net/)
 
-# My Stats
+## My Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=515hikaru&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
