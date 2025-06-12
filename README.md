@@ -11,7 +11,7 @@ I'm a software developer, Pythonista.
 - [mdtable2csv](https://github.com/515hikaru/mdtable2csv)
     - Convert Markdown Table to CSV with Std In/Out
 - [tech-memo](https://github.com/515hikaru/tech-memo)
-    - My blog (wrtten in Japanese)
+    - My blog (written in Japanese)
 
 ## My Activity
 
